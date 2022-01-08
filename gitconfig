@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jfnumainville@gmail.com
+	name = Jean-Francois Numainville
